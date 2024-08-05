@@ -31,7 +31,7 @@
   "bundleDependencies": false,
   "deprecated": false,
   "devDependencies": {
-    "@11ty/eleventy": "^0.12.1",
+    "@11ty/eleventy": "^2.0.1",
     "autoprefixer": "^9.7.6",
     "babel-cli": "^6.26.0",
     "babel-preset-env": "^1.7.0",
